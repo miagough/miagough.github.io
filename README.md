@@ -4,6 +4,10 @@
 
 # Welcome to the website for miagough
 
+---
+
+## Markdown
+This readme is written in markdown
 
 ---
 
